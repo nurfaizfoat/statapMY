@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>StatapMY</title>
+ <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://hyde.getpoole.com/"/>
+ <updated>2015-03-08T00:43:54+08:00</updated>
+ <id>http://hyde.getpoole.com</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Wedding</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/weddingbynuren/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/weddingbynuren</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/weddingbynuren.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Trusted Company</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/trustedcompany/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/trustedcompany</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/trustedcompany.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Trackback</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/trackback/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/trackback</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/trackback.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Lorry</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/thelorry/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/thelorry</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/thelorry.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Teratotech</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/teratotech/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/teratotech</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/teratotech.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Taxi Monger</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/taximonger/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/taximonger</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/taximonger.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Table App</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/tableapp/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/tableapp</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/tableapp.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Shoppr</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/shoppr/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/shoppr</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/shoppr.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Room Service</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/roomservice/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/roomservice</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/roomservice.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Repark App</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/repark-app/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/repark-app</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/reparkapp.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Rent A Dress</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/rent-a-dress/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/rent-a-dress</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/rentadress.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Recomn</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/recomn/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/recomn</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/recomn.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Raudhah</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/raudhah/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/raudhah</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/raudhah.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Piktochart</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/piktochart/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/piktochart</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/piktochart.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Off Peak</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/offpeak/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/offpeak</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/offpeak.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My Teksi</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/myteksi/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/myteksi</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/mytaxi.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mau Kerja</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/mau-kerja/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/mau-kerja</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/maukerja.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Love Spark</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/lovesprk/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/lovesprk</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/lovesprk.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lagi Satu</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/lagisatu/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/lagisatu</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/lagisatu.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Katsana</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/katsana/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/katsana</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/katsana.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kaodim</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/kaodim/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/kaodim</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/kaodim.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>iMoney</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/imoney/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/imoney</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/imoney.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>iKargo</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/ikargo/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/ikargo</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/ikargo.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>iBilik</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/ibilik/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/ibilik</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/ibilik.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hungry Go Where</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/hijab2go/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/hijab2go</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/hungrygowhere.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Goget</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/goget/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/goget</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/goget.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gig Fairy</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/gigfairy/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/gigfairy</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/gigfairy.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fashion Valet</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/fashionvalet/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/fashionvalet</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/fashionvalet.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Evisa Asia</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/evisaasia/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/evisaasia</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/evisaasia.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>EasyUni</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/easyuni/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/easyuni</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/easyuni.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DYSR</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/dysr/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/dysr</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/dysr.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deliver Eat</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/deliver-eat/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/deliver-eat</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/delivereat.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ChopChop</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/chopchop/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/chopchop</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/chopchop.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Catmoji</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/catmoji/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/catmoji</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/catmoji.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Catch That Bus</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/catch-that-bus/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/catch-that-bus</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/catchthatbus.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Baucar</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/baucar/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/baucar</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/baucar.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Agility IO</title>
+   <link href="http://hyde.getpoole.com/2015/03/07/agility-io/"/>
+   <updated>2015-03-07T00:00:00+08:00</updated>
+   <id>http://hyde.getpoole.com/2015/03/07/agility-io</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/statap_img/agilityio.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
