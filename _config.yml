@@ -11,17 +11,17 @@ title:            StatapMY
 tagline:          'StatapMY'
 description:      'A directory for inspiring startup companies. <br> Made in Malaysia.'
 curate:           'Curated by <a href="http://twitter.com/nurfaizfoat" target="_blank">@nurfaizfoat</a>'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              http://nurfaizfoat.github.io/statapMY
+baseurl:          /statapMY
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Nurfaiz Foat'
+  url:            https://nrfz.org
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0.1
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/nurfaizfoat/statapMY
