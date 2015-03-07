@@ -4,4 +4,4 @@ title: Taxi Monger
 source: http://taximonger.com/
 ---
 
-<img src="/img/statap_img/taximonger.png">
+<img src="{{ site.baseurl }}/img/statap_img/taximonger.png">

@@ -4,4 +4,4 @@ title: Wedding
 source: http://www.wedding.com.my/
 ---
 
-<img src="/img/statap_img/weddingbynuren.png">
+<img src="{{ site.baseurl }}/img/statap_img/weddingbynuren.png">

@@ -4,4 +4,4 @@ title: Trackback
 source: https://trackback.my/
 ---
 
-<img src="/img/statap_img/trackback.png">
+<img src="{{ site.baseurl }}/img/statap_img/trackback.png">

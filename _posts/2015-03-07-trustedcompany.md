@@ -4,4 +4,4 @@ title: Trusted Company
 source: http://trustedcompany.com/
 ---
 
-<img src="/img/statap_img/trustedcompany.png">
+<img src="{{ site.baseurl }}/img/statap_img/trustedcompany.png">

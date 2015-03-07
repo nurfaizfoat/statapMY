@@ -4,4 +4,4 @@ title: Fashion Valet
 source: http://www.fashionvalet.com/
 ---
 
-<img src="/img/statap_img/fashionvalet.png">
+<img src="{{ site.baseurl }}/img/statap_img/fashionvalet.png">

@@ -4,4 +4,4 @@ title: Agility IO
 source: http://www.agilityio.com/
 ---
 
-<img src="/img/statap_img/agilityio.png">
+<img src="{{ site.baseurl }}/img/statap_img/agilityio.png">
