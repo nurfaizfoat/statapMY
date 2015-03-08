@@ -1,8 +1,6 @@
 ---
 layout: page
-title: About
+title: Full Directory
 ---
-
-## Full Directory List
 
 Browse through directory sorted by startup nature of business. Coming soon.
