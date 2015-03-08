@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            StatapMY
-tagline:          'StatapMY'
+tagline:          'Malaysia Startup Directory'
 description:      'A directory for inspiring startup companies. <br> Made in Malaysia.'
 curate:           'Curated by <a href="http://nrfz.org" target="_blank">Nurfaiz Foat</a>'
 url:              http://nurfaizfoat.github.io/statapMY
