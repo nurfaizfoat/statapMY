@@ -27,6 +27,6 @@ Open sourced under the [MIT license](LICENSE.md).
 ```
 $ gem install jekyll
 $ git clone https://github.com/nurfaizfoat/statapMY
-$ cd built-with-ember
+$ cd pathto/statapMY
 $ jekyll serve --watch
 ```
