@@ -4,7 +4,7 @@ StatapMY is a showcase of inspiring and ambitious local Malaysian startup compan
 
 Whether it is just an app or web service, StatapMY will document them all in this little site.
 
-![StatapMY screenshot](http://i.imgur.com/MCPWLF1.png)
+![StatapMY screenshot](http://i.imgur.com/lzDDCdB.png)
 
 # Submission
 
