@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            StatapMY
 tagline:          'StatapMY'
 description:      'A directory for inspiring startup companies. <br> Made in Malaysia.'
-curate:           'Curated by <a href="http://twitter.com/nurfaizfoat" target="_blank">@nurfaizfoat</a>'
+curate:           'Curated by <a href="http://nrfz.org" target="_blank">Nurfaiz Foat</a>'
 url:              http://nurfaizfoat.github.io/statapMY
 baseurl:          http://nurfaizfoat.github.io/statapMY
 

@@ -7,7 +7,7 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-StatapMY is a showcase of inspiring and ambitious local Malaysian startup companies that have been successfully launched their product to the masses. Whether it is just an app or web service, StatapMY will document them all in this little site. It's built and curated by [@nurfaizfoat](https://twitter.com/nurfaizfoat).
+StatapMY is a showcase of inspiring and ambitious local Malaysian startup companies that have been successfully launched their product to the masses. Whether it is just an app or web service, StatapMY will document them all in this little site. It's built and curated by [Nurfaiz Foat](http://nrfz.org).
 
 <!-- There are currently two themes built on Poole:
 
@@ -22,7 +22,7 @@ Local startups scene is at its best now. So, we accept all submission as long as
 
 ## How to Submit
 
-To submit a site suggestion, open an issue or create a pull request. Pull requests will be given higher priority since they are easier to include. Make sure the screenshot is 1000x800 and please double check that everything looks good before submitting. It’s also a good idea to run the screenshot through an image optimizer like TinyPNG before including it. This will help keep the website fast and the repository small as possible.
+To submit a site suggestion, open an issue or create a pull request. Pull requests will be given higher priority since they are easier to include. Make sure the screenshot is at least 1000x800 and please double check that everything looks good before submitting. It’s also a good idea to run the screenshot through an image optimizer like TinyPNG before including it. This will help keep the website fast and the repository small as possible.
 
 ## About the Site
 
