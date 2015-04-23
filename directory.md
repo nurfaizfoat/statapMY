@@ -33,6 +33,7 @@ Browse through directory sorted by startup nature of business.
 - [MyTeksi](http://grabtaxi.com/myteksi/)
 - [Offpeak](http://offpeak.my/)
 - [Piktochart](http://piktochart.com/)
+- [Popsocial](http://www.propsocial.my/)
 - [Raudhah.co](http://raudhah.co/)
 - [Recomn](http://recomn.com/)
 - [Rentadress](http://www.rentadress.com.my/)
